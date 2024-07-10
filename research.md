@@ -12,5 +12,5 @@ Our overarching goal is to explore and understand
 
 Here are some themes and techniques that we currently work on:
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a 
+**Area 1** 
 
