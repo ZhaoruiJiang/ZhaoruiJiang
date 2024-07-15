@@ -11,6 +11,18 @@ permalink: /pictures/
 
 ## Viedo
 
+<DOCTYPE! html>
+<html>
+    <head>
+	<!-- <title</title> -->
+	<meta charset="utf-8">
+    </head>
+   <body>
+       <video loop="loop" controls="controls" poster="">
+	   <source src="/images/EMBL.mp4" type="video/mp4"></source></video>
+    </body>
+</html>
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
 
 <!-- #### Gallery
