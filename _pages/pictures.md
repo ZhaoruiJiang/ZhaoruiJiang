@@ -11,11 +11,16 @@ permalink: /pictures/
 
 ## Viedo
 
-<DOCTYPE! html>
 <html>
     <head>
 	<!-- <title</title> -->
 	<meta charset="utf-8">
+    <style>
+        #myVideo {
+            width: 300px; 
+            height: auto; 
+        }
+    </style>
     </head>
    <body>
        <video loop="loop" controls="controls" poster="">
