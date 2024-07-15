@@ -18,7 +18,7 @@ permalink: /pictures/
     <style>
         #myVideo {
             width: 100px; 
-            height: auto; 
+            height: 100px; 
         }
     </style>
     </head>
