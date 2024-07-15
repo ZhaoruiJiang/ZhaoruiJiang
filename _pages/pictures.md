@@ -11,7 +11,7 @@ permalink: /pictures/
 
 ## Viedo
 
-<!-- <html>
+<html>
     <head>
 	<meta charset="utf-8">
     <style>
@@ -22,13 +22,13 @@ permalink: /pictures/
     </style>
     </head>
    <body>
-       <video loop="loop" controls="controls">
+       <video loop="loop" controls="controls" poster="/images/poster.jpg">
 	   <source src="/images/EMBL.mp4" type="video/mp4"></source></video>
     </body>
-</html> -->
+</html>
 
 
-<iframe width="100" height="100" src="/images/EMBL.mp4" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="100" height="100" src="/images/EMBL.mp4" frameborder="0" allowfullscreen></iframe> -->
 
 <!-- #### Gallery
 (Right-click *'view image'* to see a larger image.)
