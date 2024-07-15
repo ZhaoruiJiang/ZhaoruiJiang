@@ -23,7 +23,7 @@ permalink: /pictures/
     </style>
     </head>
    <body>
-       <video loop="loop" controls="controls" poster="">
+       <video loop="loop" controls="controls">
 	   <source src="/images/EMBL.mp4" type="video/mp4"></source></video>
     </body>
 </html>
